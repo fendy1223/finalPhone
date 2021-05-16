@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d67e56d-112a-4cc0-8101-8b4b8b3a838d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/final.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPhone/app/src/main/java/com/example/finalphone/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPhone/app/src/main/java/com/example/finalphone/MainActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="0d67e56d-112a-4cc0-8101-8b4b8b3a838d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
